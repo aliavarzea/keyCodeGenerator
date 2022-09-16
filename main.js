@@ -19,6 +19,7 @@ window.addEventListener("keypress", (e) => {
 
   if (e.key === 32) {
     displayKey.innerHTML = `Space`;
+    displayeKey.innerHTML = `Space`;
   }
 });
 
